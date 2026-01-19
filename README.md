@@ -1,6 +1,6 @@
 I'm an MSc student in Computer Science at the University of Pisa, specializing in Artificial Intelligence.
 
-🔍 Interests
+My academic interests:
 
 🤖 Machine Learning
 
